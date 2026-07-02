@@ -16,9 +16,5 @@ function App() {
 export default App;
 
 function jarda() {
-<<<<<<< HEAD
-  return 1
-=======
   return 2
->>>>>>> 8da9693 (Vetev 2 file)
 }
