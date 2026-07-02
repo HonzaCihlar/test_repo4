@@ -16,9 +16,16 @@ function App() {
 export default App;
 
 function jarda() {
+<<<<<<< HEAD
   return 1
+<<<<<<< HEAD
 }
 
 function jarda2() {
   return 2
+=======
+=======
+  return 2
+>>>>>>> 8da9693 (Vetev 2 file)
+>>>>>>> 86bc3d3 (Vetev 2 file)
 }
