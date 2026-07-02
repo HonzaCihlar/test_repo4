@@ -16,5 +16,5 @@ function App() {
 export default App;
 
 function jarda() {
-  return 50
+  return 1
 }
