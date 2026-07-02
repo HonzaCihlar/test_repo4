@@ -17,6 +17,7 @@ export default App;
 
 function jarda() {
 <<<<<<< HEAD
+<<<<<<< HEAD
   return 1
 <<<<<<< HEAD
 }
@@ -28,4 +29,7 @@ function jarda2() {
   return 2
 >>>>>>> 8da9693 (Vetev 2 file)
 >>>>>>> 86bc3d3 (Vetev 2 file)
+=======
+  return 2
+>>>>>>> 2582bfc (Resolve conflict in App.js)
 }
