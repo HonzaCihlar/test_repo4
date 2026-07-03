@@ -19,6 +19,7 @@ function jarda() {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   return 1
 <<<<<<< HEAD
 }
@@ -50,4 +51,7 @@ function jarda2() {
   return 2
 >>>>>>> e860c5b (second function value change)
 >>>>>>> 65564c0 (second function value change)
+=======
+  return 2
+>>>>>>> origin/master
 }
