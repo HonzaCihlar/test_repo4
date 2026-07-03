@@ -40,7 +40,14 @@ function jarda2() {
 }
 
 function jarda2() {
+<<<<<<< HEAD
   return 1
 >>>>>>> f83b8e7 (Added a new function)
+<<<<<<< HEAD
 >>>>>>> 5703b3d (Added a new function)
+=======
+=======
+  return 2
+>>>>>>> e860c5b (second function value change)
+>>>>>>> 65564c0 (second function value change)
 }
