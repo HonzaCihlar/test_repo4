@@ -18,6 +18,7 @@ export default App;
 function jarda() {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   return 1
 <<<<<<< HEAD
 }
@@ -32,4 +33,14 @@ function jarda2() {
 =======
   return 2
 >>>>>>> 2582bfc (Resolve conflict in App.js)
+=======
+  return 2
+=======
+  return 1
+}
+
+function jarda2() {
+  return 1
+>>>>>>> f83b8e7 (Added a new function)
+>>>>>>> 5703b3d (Added a new function)
 }
