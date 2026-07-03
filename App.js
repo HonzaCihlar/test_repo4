@@ -20,5 +20,5 @@ function jarda() {
 }
 
 function jarda2() {
-  return 1
+  return 2
 }
